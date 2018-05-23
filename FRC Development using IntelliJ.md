@@ -33,3 +33,6 @@ Check the `Create from template` box and select the template of your choice (and
 If it so happens that IntelliJ doesn't see the project libraries, you can manually link them by adding another module to your project.
 
 Go to `File - Project Structure - Modules` and add another dependency by clicking the green + button on the right side of the window and selecting `JARs or directories`, then simply add the folder where the WPILib JAR files are stored on your machine. 
+
+## Resources
+* [The link to the FRC plugin](https://plugins.jetbrains.com/plugin/9405-frc) and the [plugin's GitLab page](https://gitlab.com/Javaru/frc-intellij-idea-plugin).
