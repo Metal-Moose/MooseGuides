@@ -1,4 +1,4 @@
-# FRC Development using IntelliJ
+# FRC with IntelliJ
 
 This guide explains, how to configure your IntelliJ IDE to be able to develop code for the RoboRIO.
 
