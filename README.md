@@ -10,6 +10,7 @@ There are a multitude of guides about various topics regarding the FRC, here is 
 	* **FRC with IntelliJ** - using IntelliJ to program and deploy on the RoboRIO.
 * **Programming** - programming the robot.
 	* **Robot control using polynomial functions** - modeling polynomial functions to control parts of the robot.
+	* **Autonomous language** - creating an autonomous language to easily control the autonomous period of the robot.
 
 ## Other projects and resources
 [Pure Pursuit Algorithm](https://github.com/xiaoxiae/PurePursuitAlgorithm) - an implementation of a basic adaptive pure pursuit algorithm in Java using the Processing library.
